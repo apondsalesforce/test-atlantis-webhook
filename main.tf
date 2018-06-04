@@ -1,4 +1,4 @@
-resource "null_resource" "example" {
+resource "null_resource" "examples" {
 }
 
 resource "aws_security_group" "winstontest" {
