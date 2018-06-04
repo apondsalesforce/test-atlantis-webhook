@@ -1,7 +1,7 @@
 resource "null_resource" "examples" {
 }
 
-resource "null_resource" "example32" {
+resource "null_resource" "example332" {
 }
 
 resource "aws_security_group" "winstontest" {
