@@ -2,6 +2,7 @@ resource "null_resource" "examples" {
 }
 
 resource "null_resource" "example99" {
+
 }
 
 resource "null_resource" "example12" {
