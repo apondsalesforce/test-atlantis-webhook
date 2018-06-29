@@ -14,7 +14,6 @@ resource "null_resource" "example1222" {
 resource "null_resource" "example1232" {
 }
 
-
 resource "null_resource" "example532" {
 }
 
