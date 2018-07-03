@@ -20,6 +20,9 @@ resource "null_resource" "example532" {
 resource "null_resource" "example5" {
 }
 
+resource "null_resource" "example6" {
+}
+
 resource "aws_security_group" "winstontest" {
   name        = "winstontest"
   description = "winstontest"
